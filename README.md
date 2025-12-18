@@ -115,6 +115,7 @@
   [![Portfolio](https://img.shields.io/badge/Website-hailamdev.space-ff6b35?style=for-the-badge)](https://www.hailamdev.space)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-f7931e?style=for-the-badge)](mailto:xuanhai0913750452@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-xuanhai0913-ffd700?style=for-the-badge)](https://github.com/xuanhai0913)
+  [![Ko-fi](https://img.shields.io/badge/Buy_Me_A_Coffee-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xuanhai0913)
 
 </div>
 
