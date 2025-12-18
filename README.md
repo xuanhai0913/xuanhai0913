@@ -1,12 +1,12 @@
 <!-- Header Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7931e,100:ffd700&height=220&section=header&text=Welcome%20to%20My%20Universe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7931e,100:ffd700&height=220&section=header&text=Welcome%20to%20HaiLamDev%&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=50"/>
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hi+I'm+Xuan+Hai;Building+the+web%2C+one+line+at+a+time;Turning+coffee+into+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hi+I'm+Xuan+Hai;Building+the+web%2C+one+line+at+a+time" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,24 +26,13 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=xuanhai0913&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://www.hailamdev.space" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=xuanhai0913&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
   <img src="https://img.shields.io/github/followers/xuanhai0913?style=for-the-badge&color=f7931e&label=FOLLOWERS" alt="Followers"/>
 </div>
 
-<br/>
 
-<!-- About Me Section -->
-## About Me
-
-```javascript
-const xuanhai = {
-    location: "Vietnam",
-    website: "hailamdev.space",
-    passion: ["Web Development", "UI/UX", "Problem Solving"],
-    currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log"
-};
-```
 
 <br/>
 
@@ -102,23 +91,6 @@ const xuanhai = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xuanhai0913&bg_color=0D1117&color=ff6b35&line=f7931e&point=ffd700&area_color=ff6b35&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
 </div>
 
----
-
-<!-- Featured Projects -->
-## Featured Projects
-
-<div align="center">
-  <a href="https://www.hailamdev.space">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=xuanhai0913&repo=Extension-Vision-Premium&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b35&icon_color=f7931e" alt="Portfolio Repo"/>
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://www.hailamdev.space" target="_blank">
-    <img src="https://img.shields.io/badge/Xem_Portfolio_Đầy_Đủ-ff6b35?style=for-the-badge" alt="View Portfolio"/>
-  </a>
-</div>
 
 ---
 
@@ -144,11 +116,6 @@ const xuanhai = {
   [![Email](https://img.shields.io/badge/Email-Contact_Me-f7931e?style=for-the-badge)](mailto:xuanhai0913750452@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-xuanhai0913-ffd700?style=for-the-badge)](https://github.com/xuanhai0913)
 
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Made%20with%20Love%20and%20Coffee-ff6b35?style=for-the-badge" alt="Made with Love"/>
 </div>
 
 <!-- Footer -->
