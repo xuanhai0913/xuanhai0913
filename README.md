@@ -58,10 +58,9 @@ DEVOPS          Vercel · Docker · GitHub Actions · Cloudflare
 
 ### `> cat blog/latest.md`
 
-📝 [How I Architected a B2B Real Estate Platform with .NET Core + React](https://dev.to/xuanhai0913)  
-📝 Building an AI Portfolio Assistant with Google Gemini 2.0 — *coming soon*  
-📝 My React Portfolio SEO Checklist: From 0 to Rich Results — *coming soon*  
-📝 LLM Unit Test Generator: Prompt Engineering for Production Code — *coming soon*
+[How I Built an AI-Powered Portfolio Assistant with Google Gemini](https://dev.to/xuanhai0913/how-i-built-an-ai-powered-portfolio-assistant-with-google-gemini-4a5j)  
+[My React Portfolio SEO Checklist: From 0 to Rich Results in 48 Hours](https://dev.to/xuanhai0913/my-react-portfolio-seo-checklist-from-0-to-rich-results-in-48-hours-15me)  
+LLM Unit Test Generator: Prompt Engineering for Production Code — *coming soon*
 
 ---
 
