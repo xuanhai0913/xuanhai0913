@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+<title id="title">SQLi + XSS</title><desc id="desc">Trace the input. Find the boundary. Research prototype.</desc>
+<rect width="720" height="400" rx="20" fill="#111914"/>
+<rect x="1" y="1" width="718" height="398" rx="19" fill="none" stroke="#344438"/>
+<text x="36" y="48" fill="#b6cfb8" font-family="monospace" font-size="16">03 / APPLICATION SECURITY</text>
+<text x="36" y="119" fill="#d0f783" font-family="sans-serif" font-size="48" font-weight="700">SQLi + XSS</text>
+<text x="36" y="187" fill="#f1f4e9" font-family="sans-serif" font-size="27">Trace the input.</text>
+<text x="36" y="225" fill="#f1f4e9" font-family="sans-serif" font-size="27">Find the boundary.</text>
+<path d="M525 115h115v95H525zM548 139l20 20-20 20m40 0h26" fill="none" stroke="#d0f783" stroke-width="3"/>
+<path d="M510 238h144M580 210v28" stroke="#587751" stroke-width="2"/>
+<path d="M36 280h648" stroke="#344438"/>
+<text x="36" y="319" fill="#a9b9ad" font-family="monospace" font-size="16">DATABASE / BROWSER LABS</text>
+<text x="36" y="363" fill="#d0f783" font-family="monospace" font-size="15">RESEARCH PROTOTYPE</text>
+<text x="651" y="366" fill="#d0f783" font-family="sans-serif" font-size="26">↗</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
+<title id="title">Nguyen Xuan Hai — Full-stack Developer / Security Research</title>
+<desc id="desc">Build. Investigate. Protect. HAILAMDEV, Ho Chi Minh City.</desc>
+<rect width="1440" height="520" rx="24" fill="#0c120e"/>
+<path d="M960 0v520M1080 0v520M1200 0v520M1320 0v520M900 100h540M900 220h540M900 340h540M900 460h540" stroke="#26372a"/>
+<rect x="56" y="50" width="132" height="34" rx="17" fill="#d0f783"/>
+<text x="77" y="73" font-family="monospace" font-size="18" fill="#101710">HAILAMDEV</text>
+<text x="56" y="165" font-family="sans-serif" font-size="58" font-weight="700" fill="#f1f4e9">NGUYEN XUAN HAI</text>
+<text x="56" y="236" font-family="sans-serif" font-size="33" fill="#d0f783">Full-stack Developer / Security Research</text>
+<text x="56" y="341" font-family="sans-serif" font-size="55" fill="#f1f4e9">Build. Investigate.</text>
+<text x="56" y="408" font-family="sans-serif" font-size="55" fill="#d0f783">Protect.</text>
+<text x="56" y="476" font-family="monospace" font-size="19" fill="#a9b9ad">HO CHI MINH CITY · @XUANHAI0913</text>
+<circle cx="1160" cy="260" r="167" fill="#121e15" stroke="#4c6842"/>
+<circle cx="1160" cy="260" r="134" fill="none" stroke="#344e31" stroke-dasharray="4 12"/>
+<path d="m1160 156 77 30v66c0 65-77 111-77 111s-77-46-77-111v-66z" fill="#21331b" stroke="#d0f783" stroke-width="4"/>
+<path d="m1123 256 25 25 50-57" fill="none" stroke="#d0f783" stroke-width="7"/>
+<circle cx="1327" cy="260" r="7" fill="#d0f783"/>
+</svg>
