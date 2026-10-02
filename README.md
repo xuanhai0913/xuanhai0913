@@ -16,12 +16,14 @@
 <a href="https://my-portfolio-nxh.vercel.app/security?topic=sqli"><img src="assets/web.svg" width="49%" alt="SQLi and XSS — explore database and browser trust boundaries"/></a>
 <a href="https://github.com/xuanhai0913/RAT-HAILAMDEV"><img src="assets/rat.svg" width="49%" alt="RAT-HAILAMDEV — TLS, sockets and remote-access trust boundaries"/></a>
 
-**Web labs:** [SQLI-V1-HAILAMDEV](https://github.com/xuanhai0913/SQLI-V1-HAILAMDEV) · [KLG-XSS-HAILAMDEV](https://github.com/xuanhai0913/KLG-XSS-HAILAMDEV)
-
-**[Explore the interactive threat map →](https://my-portfolio-nxh.vercel.app/security)**
+<p align="center">
+<a href="https://github.com/xuanhai0913/SQLI-V1-HAILAMDEV"><img src="assets/action-sqli.svg" width="176" height="48" alt="SQLi repository"/></a>
+<a href="https://github.com/xuanhai0913/KLG-XSS-HAILAMDEV"><img src="assets/action-xss.svg" width="176" height="48" alt="XSS repository"/></a>
+<a href="https://my-portfolio-nxh.vercel.app/security"><img src="assets/action-map.svg" width="176" height="48" alt="Explore the interactive threat map"/></a>
+</p>
 
 <details>
-<summary><strong>Inside the labs: implementation & limitations</strong></summary>
+<summary><strong>🔬 Research notes · scope &amp; limitations</strong></summary>
 
 - **Malware:** static-analysis code for hashes, metadata, strings, entropy and disassembly. Broader workflows remain prototype work.
 - **DDoS:** monitoring and simulation prototypes; synthetic connection records are not real-world attack benchmarks.
@@ -32,20 +34,20 @@ These are research prototypes, not audited or production-ready security products
 
 </details>
 
-> **Authorized research only.** Dual-use labs belong in isolated, explicitly permitted environments—not public networks or other people's systems.
+> 🛡️ **Research prototypes · Authorized labs only**<br>
+> Not audited or production-ready. Use isolated environments with explicit permission.
 
 ## Beyond the lab
 
-**[Portfolio & Ask Hai](https://my-portfolio-nxh.vercel.app)**<br>
-An AI-assisted portfolio with project evidence and interactive explainers. [Source ↗](https://github.com/xuanhai0913/My-Portfolio-NXH)
+<a href="https://my-portfolio-nxh.vercel.app/assistant"><img src="assets/project-askhai.svg" width="49%" alt="Ask Hai — AI portfolio assistant"/></a>
+<a href="https://github.com/xuanhai0913/LLM-Unit-tests"><img src="assets/project-testgen.svg" width="49%" alt="LLM Unit Test Generator — explore source code"/></a>
+<a href="https://vnmediahub.com"><img src="assets/project-vnmedia.svg" width="49%" alt="VN Media Hub — publishing and web application work"/></a>
+<a href="https://ech.edu.vn"><img src="assets/project-education.svg" width="49%" alt="ECH Education — community English learning"/></a>
 
-**[LLM Unit Test Generator](https://github.com/xuanhai0913/LLM-Unit-tests)**<br>
-Exploring test generation from source code with LLMs.
-
-**[VN Media Hub](https://vnmediahub.com) · [ECH Education](https://ech.edu.vn)**<br>
-Web application work, content publishing and community English learning.
-
-[More projects & my role in each →](https://my-portfolio-nxh.vercel.app#portfolio)
+<p align="center">
+<a href="https://github.com/xuanhai0913/My-Portfolio-NXH"><img src="assets/action-source.svg" width="176" height="48" alt="Portfolio source code"/></a>
+<a href="https://my-portfolio-nxh.vercel.app#portfolio"><img src="assets/action-projects.svg" width="176" height="48" alt="All projects and my role in each"/></a>
+</p>
 
 <details>
 <summary><strong>Toolbox, writing & learning</strong></summary>
