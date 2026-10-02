@@ -11,10 +11,10 @@
 
 ## Security, through code
 
-<a href="https://github.com/xuanhai0913/Malware-HAILAMDEV"><img src="assets/malware.svg" width="49%" alt="Malware-HAILAMDEV — static binary analysis with Python, LIEF and Capstone"/></a>
-<a href="https://github.com/xuanhai0913/DDOS-HAILAMDEV"><img src="assets/ddos.svg" width="49%" alt="DDOS-HAILAMDEV — synthetic traffic modeling and availability research"/></a>
-<a href="https://my-portfolio-nxh.vercel.app/security?topic=sqli"><img src="assets/web.svg" width="49%" alt="SQLi and XSS — explore database and browser trust boundaries"/></a>
-<a href="https://github.com/xuanhai0913/RAT-HAILAMDEV"><img src="assets/rat.svg" width="49%" alt="RAT-HAILAMDEV — TLS, sockets and remote-access trust boundaries"/></a>
+<a href="https://github.com/xuanhai0913/Malware-HAILAMDEV"><img src="assets/malware.svg" width="360" alt="Malware-HAILAMDEV — static binary analysis with Python, LIEF and Capstone"/></a>
+<a href="https://github.com/xuanhai0913/DDOS-HAILAMDEV"><img src="assets/ddos.svg" width="360" alt="DDOS-HAILAMDEV — synthetic traffic modeling and availability research"/></a>
+<a href="https://my-portfolio-nxh.vercel.app/security?topic=sqli"><img src="assets/web.svg" width="360" alt="SQLi and XSS — explore database and browser trust boundaries"/></a>
+<a href="https://github.com/xuanhai0913/RAT-HAILAMDEV"><img src="assets/rat.svg" width="360" alt="RAT-HAILAMDEV — TLS, sockets and remote-access trust boundaries"/></a>
 
 <p align="center">
 <a href="https://github.com/xuanhai0913/SQLI-V1-HAILAMDEV"><img src="assets/action-sqli.svg" width="176" height="48" alt="SQLi repository"/></a>
@@ -39,10 +39,10 @@ These are research prototypes, not audited or production-ready security products
 
 ## Beyond the lab
 
-<a href="https://my-portfolio-nxh.vercel.app/assistant"><img src="assets/project-askhai.svg" width="49%" alt="Ask Hai — AI portfolio assistant"/></a>
-<a href="https://github.com/xuanhai0913/LLM-Unit-tests"><img src="assets/project-testgen.svg" width="49%" alt="LLM Unit Test Generator — explore source code"/></a>
-<a href="https://vnmediahub.com"><img src="assets/project-vnmedia.svg" width="49%" alt="VN Media Hub — publishing and web application work"/></a>
-<a href="https://ech.edu.vn"><img src="assets/project-education.svg" width="49%" alt="ECH Education — community English learning"/></a>
+<a href="https://my-portfolio-nxh.vercel.app/assistant"><img src="assets/project-askhai.svg" width="360" alt="Ask Hai — AI portfolio assistant"/></a>
+<a href="https://github.com/xuanhai0913/LLM-Unit-tests"><img src="assets/project-testgen.svg" width="360" alt="LLM Unit Test Generator — explore source code"/></a>
+<a href="https://vnmediahub.com"><img src="assets/project-vnmedia.svg" width="360" alt="VN Media Hub — publishing and web application work"/></a>
+<a href="https://ech.edu.vn"><img src="assets/project-education.svg" width="360" alt="ECH Education — community English learning"/></a>
 
 <p align="center">
 <a href="https://github.com/xuanhai0913/My-Portfolio-NXH"><img src="assets/action-source.svg" width="176" height="48" alt="Portfolio source code"/></a>
