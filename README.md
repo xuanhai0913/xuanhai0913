@@ -1,18 +1,15 @@
 ![Nguyễn Xuân Hải — Full-stack Developer · Security Research](assets/header.svg)
 
 <p align="center">
-  <a href="https://my-portfolio-nxh.vercel.app"><strong>Portfolio</strong></a> ·
-  <a href="https://my-portfolio-nxh.vercel.app/security"><strong>Security Hub</strong></a> ·
-  <a href="https://www.linkedin.com/in/xuanhai0913/"><strong>LinkedIn</strong></a> ·
-  <a href="mailto:xuanhai0913750452@gmail.com"><strong>Contact</strong></a>
+  <a href="https://my-portfolio-nxh.vercel.app"><img src="assets/link-portfolio.svg" width="148" height="48" alt="Visit my portfolio"/></a>
+  <a href="https://my-portfolio-nxh.vercel.app/security"><img src="assets/link-security.svg" width="148" height="48" alt="Explore Security Hub"/></a>
+  <a href="https://www.linkedin.com/in/xuanhai0913/"><img src="assets/link-linkedin.svg" width="148" height="48" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:xuanhai0913750452@gmail.com"><img src="assets/link-email.svg" width="148" height="48" alt="Send me an email"/></a>
 </p>
 
-I build full-stack applications and explore their security boundaries through hands-on research.
-**React · ASP.NET Core · Python · AI integrations**
+<p align="center"><strong>React · ASP.NET Core · Python · AI integrations</strong></p>
 
 ## Security, through code
-
-Five repositories. Four research areas. Explore a lab below.
 
 <a href="https://github.com/xuanhai0913/Malware-HAILAMDEV"><img src="assets/malware.svg" width="49%" alt="Malware-HAILAMDEV — static binary analysis with Python, LIEF and Capstone"/></a>
 <a href="https://github.com/xuanhai0913/DDOS-HAILAMDEV"><img src="assets/ddos.svg" width="49%" alt="DDOS-HAILAMDEV — synthetic traffic modeling and availability research"/></a>
@@ -21,7 +18,7 @@ Five repositories. Four research areas. Explore a lab below.
 
 **Web labs:** [SQLI-V1-HAILAMDEV](https://github.com/xuanhai0913/SQLI-V1-HAILAMDEV) · [KLG-XSS-HAILAMDEV](https://github.com/xuanhai0913/KLG-XSS-HAILAMDEV)
 
-**[Try the interactive Security Hub →](https://my-portfolio-nxh.vercel.app/security)** — follow a risk, switch on defenses, see what changes.
+**[Explore the interactive threat map →](https://my-portfolio-nxh.vercel.app/security)**
 
 <details>
 <summary><strong>Inside the labs: implementation & limitations</strong></summary>
@@ -65,7 +62,4 @@ Web application work, content publishing and community English learning.
 
 ---
 
-**Let's build something useful—and understand how to protect it.**<br>
-Open to full-stack opportunities, freelance work and security-minded engineering collaborations.
-
-[LinkedIn](https://www.linkedin.com/in/xuanhai0913/) · [Email](mailto:xuanhai0913750452@gmail.com)
+<p align="center"><strong>Open to full-stack roles &amp; collaborations.</strong></p>
